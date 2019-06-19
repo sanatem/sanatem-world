@@ -11,7 +11,7 @@ module.exports = {
   author: 'Santiago Pravisani',
   githubUrl: 'https://github.com/sanatem/sanatem-world',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://silly-curran-92b5ed.netlify.com',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
